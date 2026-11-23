@@ -1,5 +1,7 @@
 # AI 编程助手速查表 · ai-coding-cheatsheet
 
+> 📚 **合集版**：这张表已收进旗舰合集 [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) —— 100 张速查表在一个仓库里，欢迎去合集点 ⭐。
+
 Claude Code / OpenAI Codex CLI / Cursor —— 三个最主流 AI 编程工具的实战速查表。
 
 所有命令、快捷键、配置项已逐条对照官方文档核实（核实日期 2026-10-06），核实不了的条目直接删除不写；版本敏感处标注"以官方文档为准"。
